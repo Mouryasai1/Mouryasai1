@@ -2,7 +2,7 @@
 
 ### Data Analyst | Analytics Engineer | Data Engineer
 
-📍 Hyderabad, India &nbsp;&nbsp;|&nbsp;&nbsp; 📧 k.mourya77@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; 💼 [LinkedIn](https://linkedin.com/in/Msc2003)
+ 📧 k.mourya77@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; 💼 [LinkedIn](https://linkedin.com/in/Msc2003)
 
 ---
 
@@ -74,4 +74,4 @@
 
 ---
 
-*Open to Data Analyst, Data Engineer, and Analytics Engineer roles in Hyderabad, Bangalore, or Remote.*
+*Open to Data Analyst, Data Engineer, and Analytics Engineer roles*
